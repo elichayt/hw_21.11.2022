@@ -1,0 +1,31 @@
+#footer{
+    width: 100%;
+    margin-top: -30px;
+
+    background-color: rgb(47, 47, 47);
+    color: white;
+
+}
+#navs{
+    border-bottom:1px solid rgb(184, 181, 181) ;
+    /* padding: 50px; */
+    margin: 100px;
+}
+ #bbb{
+    display: flex;
+    flex-direction: row-reverse;
+     justify-content: space-between; 
+     margin-left: -30px;
+   
+   
+} 
+
+.aaa{
+    display: flex;
+    flex-direction: column;
+}
+hr{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+

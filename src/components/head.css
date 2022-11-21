@@ -1,0 +1,75 @@
+.head{
+    
+    height: 76px;
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+#logo{
+    width: 15%;
+    justify-items: start;
+    align-items: center;
+    justify-items: center;
+}
+#imgL{
+    height: 100%;
+    width: 64%;
+
+}
+nav{
+    width: 65%;
+    
+}
+ul{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+li{
+    margin-right: 30px;
+}
+
+ul li {
+    list-style-type: none;
+    
+}
+#leftH{
+    width: 21%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+#grey{
+    height: 100%;
+    width: 33%;
+    background-color: rgba(211, 211, 211, 0.537);
+    text-align: center;
+    padding-top: 23px; ;
+    
+    
+}
+#blue{
+    height: 100%;
+    width: 33%;
+    background-color: rgb(7, 23, 62);
+    color: white;
+    text-align: center;
+    padding-top: 10px; ;
+}
+#serche{
+    display: flex;
+    height: 100%;
+    width: 33%;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+#serchei{
+    
+    height: 33%;
+    width: 30%;
+
+   
+    
+}
